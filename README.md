@@ -9,4 +9,4 @@ Features:
 
 Hiring: 
 
-Revenue will be shared based on contrubuation percent. this will be done through a Jur.io contract.
+Revenue will be shared based on contrubuation percent.
