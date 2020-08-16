@@ -3,7 +3,7 @@ pragma solidity >=0.4.22 <0.7.0;
 
 
 contract Storage {
-  struct  user
+  struct  User
 {
     uint id;
     string name;
@@ -21,10 +21,12 @@ contract Storage {
     uint working_th;
     uint working_fr;
     Comment[]  comments;
+    
  }
 struct Comment{
     uint userID;
     string comment;
 }
-
+mapping (uint => User) public users;
+mapping (uint => Business) public businesses;
 }
