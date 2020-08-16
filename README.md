@@ -6,7 +6,6 @@ Features:
 
 2- Decenteralized
 
-3- Available to all countries unlike Bravocoin.
 
 Hiring: 
 
