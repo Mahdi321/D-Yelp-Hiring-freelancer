@@ -5,7 +5,7 @@ pragma solidity >=0.4.22 <0.7.0;
 contract Storage {
   struct  user
 {
-    uint256 id;
+    uint id;
     string name;
 }
  struct Business {
