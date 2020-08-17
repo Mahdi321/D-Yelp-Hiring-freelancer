@@ -6,7 +6,7 @@ Features:
 
 2- Decenteralized (Prefrabably)
 
-3- Available in sanctioned countries 
+3- Available in sanctioned countries. If you get payment from me there will be nothing that relate you to project
 
 
 Hiring (No need for trust): 
