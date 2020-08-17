@@ -13,9 +13,15 @@ contract Storage {
     string name;
     uint categoryID;
     string explaination;
-    uint working_sa;
-    uint working_su;
-    uint working_mo;
+    uint coordinate_x;
+    int coordinate_y;
+    string addr;
+    uint working_sa_opening;
+    uint working_sa_closing;
+    uint working_su_opening;
+    uint working_su_closing;
+    uint working_mo_opening;
+    uint working_mo_closing;
     uint working_tu;
     uint working_we;
     uint working_th;
