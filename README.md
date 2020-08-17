@@ -11,4 +11,4 @@ Features:
 
 Hiring: 
 
-Revenue will be shared based on contrubuation percent. 10% is mine. Don't need to give me code. Closed source with expiration bomb so if I don't pay your commission it will stop working after a while
+Revenue will be shared based on contrubuation percent. 10% is mine. Don't need to give me code. Closed source with expiration bomb is acceptable. so if I don't pay your commission it will stop working after a while
