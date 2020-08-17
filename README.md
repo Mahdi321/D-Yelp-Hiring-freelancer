@@ -11,4 +11,4 @@ Features:
 
 Hiring (No need for trust): 
 
- 10% of Revenue is mine. Don't need to give me code. Compiled version with a expiration bomb is acceptable. so if I don't pay your commission it will stop working after a while
+ 10% of Revenue is mine. Don't need to give me code. Compiled version with a expiration bomb is acceptable. so if I don't pay your commission it will stop working after a while by that bomb
