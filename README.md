@@ -11,4 +11,4 @@ Features:
 
 Hiring (No need for trust): 
 
-Revenue will be shared based on contrubuation percent. 10% is mine. Don't need to give me code. Closed source with expiration bomb is acceptable. so if I don't pay your commission it will stop working after a while
+ 10% of Revenue is mine. Don't need to give me code. Closed source with expiration bomb is acceptable. so if I don't pay your commission it will stop working after a while
