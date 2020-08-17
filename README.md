@@ -11,4 +11,4 @@ Features:
 
 Hiring: 
 
-Revenue will be shared based on contrubuation percent.
+Revenue will be shared based on contrubuation percent. 10% is mine
